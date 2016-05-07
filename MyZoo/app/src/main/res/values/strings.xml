@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyZoo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="title_activity_acerca_de">Acerca De</string>
+    <string name="title_activity_crear_especie">CrearEspecie</string>
+    <string name="title_activity_listar">Listar</string>
+    <string name="title_activity_actualizar">Actualizar</string>
+    <string name="title_activity_eliminar">Eliminar</string>
+    <string name="title_activity_salir">Salir</string>
+    <string name="informacion">ITT\n
+        Proyecto: MyZoo\n
+        Version: 2.4\n
+        Programador: David Flores Mauricio\n
+        Materia: Desv Movil\n
+        Fecha: 24/Marzo/2016
+    </string>
+</resources>
